@@ -1,0 +1,7 @@
+bcr_patient_barcode,drug_name,measure_of_response,vital_status,survival_days,new_tumor_event_after_initial_treatment,days_to_drug_therapy_start,age_at_diagnosis,ajcc_pathologic_tumor_stage,GENE_A,GENE_B,action_id,reward
+P1,Drug A,Complete Response,Alive,800,0,0,55,Stage II,1,0,0,6.238095238095238
+P1,Drug B,Progressive Disease,Dead,250,1,260,55,Stage II,1,0,1,-21.80952380952381
+P2,Drug A,Partial Response,Alive,600,0,0,62,Stage III,0,0,0,3.857142857142857
+P3,Drug C,Stable Disease,Alive,900,0,0,48,Stage I,1,1,2,2.428571428571429
+P3,Drug A,Unknown,Dead,150,1,150,70,Stage IV,1,1,0,-18.0
+P3,Drug B,Complete Response,Alive,1200,0,400,70,Stage IV,1,1,1,7.0
